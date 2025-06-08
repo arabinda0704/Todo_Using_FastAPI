@@ -1,0 +1,10 @@
+# Ignore Python cache and virtual environment
+__pycache__/
+venv/
+
+# Ignore secret files
+configurations.py
+pass.txt
+
+# (Optional) Ignore all .pyc files
+*.pyc
